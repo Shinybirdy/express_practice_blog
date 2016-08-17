@@ -1,0 +1,19 @@
+{
+  "name": "exp_practice_make_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shinybirdy/express_practice_blog.git"
+  },
+  "author": "shinybirdy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shinybirdy/express_practice_blog/issues"
+  },
+  "homepage": "https://github.com/Shinybirdy/express_practice_blog#readme"
+}
