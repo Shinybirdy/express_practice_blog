@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Shinybirdy/express_practice_blog/issues"
   },
-  "homepage": "https://github.com/Shinybirdy/express_practice_blog#readme"
+  "homepage": "https://github.com/Shinybirdy/express_practice_blog#readme",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "body-parser": "^1.15.2",
+    "bootstrap": "^3.3.7"
+  }
 }
